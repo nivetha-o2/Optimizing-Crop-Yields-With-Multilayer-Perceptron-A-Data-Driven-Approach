@@ -18,13 +18,6 @@ This project focuses on optimizing crop yields using Multilayer Perceptron (MLP)
 - **MLP Implementation:** Build and train an MLP model using Python and popular machine learning libraries.
 - **Evaluation Metrics:** Assess model performance using relevant metrics and visualization tools.
 
-## Technologies Used
-
-- **Programming Language:** Python
-- **Machine Learning Libraries:** TensorFlow, Keras, Scikit-Learn
-- **Data Analysis Libraries:** Pandas, NumPy
-- **Visualization Libraries:** Matplotlib, Seaborn
-
 ## Getting Started
 
 1. **Clone the Repository:**
